@@ -1,4 +1,6 @@
 # Alien vs. Zombie
+- A match between alien and zombie, run or fight. Player as the alien. Theres even special skill on the match to make the game more exciting
+  Make a good use of skill to win the match.
 [Video Demo](https://youtu.be/1kPX0-3CJNQ).
 
 ## Compilation Instructions
@@ -7,7 +9,7 @@ type g++ main.cpp, then type "main" to start the game.
 ```
 
 ## User Manual
-Please provide the user manual on how to use your program.
+- Simply run the game (follow Compilation Instruction), and the game command is inculded too. Simple.
 
 
 ## Progress Log
