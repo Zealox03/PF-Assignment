@@ -41,4 +41,5 @@
 
 ## Problems Encountered & Solutions
 - The :: (scope resolution operator) cant be run correctly, so we just put the class or the function at the same file location.
+- The movement of the alien works but does not leave a trail.
 
